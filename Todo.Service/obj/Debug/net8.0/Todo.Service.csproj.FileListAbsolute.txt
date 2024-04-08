@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\bin\Debug\net8.0\Todo.Service.deps.json
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\bin\Debug\net8.0\Todo.Service.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\bin\Debug\net8.0\Todo.Service.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\bin\Debug\net8.0\TodoList.Domain.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\bin\Debug\net8.0\TodoList.Domain.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.csproj.CopyComplete
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\refint\Todo.Service.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\Todo.Service.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Service\obj\Debug\net8.0\ref\Todo.Service.dll

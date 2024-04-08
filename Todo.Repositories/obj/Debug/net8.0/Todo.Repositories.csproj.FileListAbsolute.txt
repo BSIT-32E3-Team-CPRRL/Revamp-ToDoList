@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\bin\Debug\net8.0\Todo.Repositories.deps.json
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\bin\Debug\net8.0\Todo.Repositories.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\bin\Debug\net8.0\Todo.Repositories.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\bin\Debug\net8.0\TodoList.Domain.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\bin\Debug\net8.0\TodoList.Domain.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.csproj.CopyComplete
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\refint\Todo.Repositories.dll
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.pdb
+C:\Users\Admin\Desktop\TodoList-Group-pur-master\TodoList-Group-pur-master\Todo.Repositories\obj\Debug\net8.0\ref\Todo.Repositories.dll
